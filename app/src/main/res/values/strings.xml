@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ramadan Ashra Duas</string>
+    <string name="second_ashra_next_10_days"> Second Ashra </string>
+    <string name="third_ashra_last_10_days"> Third Ashra </string>
+    <string name="first_ashra_first_10_days_of_mercy"> First Ashra </string>
+    <string name="first_ashra_image">First Ashra Image</string>
+    <string name="second_ashra_image">Second Ashra Image</string>
+    <string name="string_second_ashra_image">Second Ashra Image</string>
+    <string name="third_ashra_description">Third Ashra Description</string>
+    <string name="ramadan_ashra_duas">Ramadan Ashra Duas</string>
+</resources>
