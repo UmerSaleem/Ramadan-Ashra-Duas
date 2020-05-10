@@ -2,6 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.babli.ramadanashraduas">
 
+    <uses-permission android:name="android.permission.INTERNET">
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+    
     <application
         android:allowBackup="true"
         android:icon="@drawable/appduaicon512"
@@ -9,6 +13,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
+    <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3601655608780402~8625079100"/>
 
         <activity
             android:name=".Splashscreen"
